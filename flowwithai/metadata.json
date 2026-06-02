@@ -1,0 +1,6 @@
+{
+  "name": "FlowWithAI",
+  "description": "A premium AI tools directory website to discover, search, and filter AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
